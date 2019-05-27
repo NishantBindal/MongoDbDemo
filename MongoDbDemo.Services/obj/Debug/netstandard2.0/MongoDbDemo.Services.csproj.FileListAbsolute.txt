@@ -1,0 +1,16 @@
+C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Services\bin\Debug\netstandard2.0\MongoDbDemo.Services.deps.json
+C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Services\bin\Debug\netstandard2.0\MongoDbDemo.Services.dll
+C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Services\bin\Debug\netstandard2.0\MongoDbDemo.Services.pdb
+C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Services\bin\Debug\netstandard2.0\MongoDbDemo.DAL.dll
+C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Services\bin\Debug\netstandard2.0\MongoDbDemo.Interfaces.dll
+C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Services\bin\Debug\netstandard2.0\MongoDbDemo.DAL.pdb
+C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Services\bin\Debug\netstandard2.0\MongoDbDemo.Interfaces.pdb
+C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Services\obj\Debug\netstandard2.0\MongoDbDemo.Services.csprojAssemblyReference.cache
+C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Services\obj\Debug\netstandard2.0\MongoDbDemo.Services.csproj.CoreCompileInputs.cache
+C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Services\obj\Debug\netstandard2.0\MongoDbDemo.Services.AssemblyInfoInputs.cache
+C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Services\obj\Debug\netstandard2.0\MongoDbDemo.Services.AssemblyInfo.cs
+C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Services\obj\Debug\netstandard2.0\MongoDbDemo.Services.csproj.CopyComplete
+C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Services\obj\Debug\netstandard2.0\MongoDbDemo.Services.dll
+C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Services\obj\Debug\netstandard2.0\MongoDbDemo.Services.pdb
+C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Services\bin\Debug\netstandard2.0\MongoDbDemo.Models.dll
+C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Services\bin\Debug\netstandard2.0\MongoDbDemo.Models.pdb
