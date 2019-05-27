@@ -1,8 +1,0 @@
-C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Interfaces\bin\Debug\netstandard2.0\MongoDbDemo.Interfaces.deps.json
-C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Interfaces\bin\Debug\netstandard2.0\MongoDbDemo.Interfaces.dll
-C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Interfaces\bin\Debug\netstandard2.0\MongoDbDemo.Interfaces.pdb
-C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Interfaces\obj\Debug\netstandard2.0\MongoDbDemo.Interfaces.csproj.CoreCompileInputs.cache
-C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Interfaces\obj\Debug\netstandard2.0\MongoDbDemo.Interfaces.AssemblyInfoInputs.cache
-C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Interfaces\obj\Debug\netstandard2.0\MongoDbDemo.Interfaces.AssemblyInfo.cs
-C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Interfaces\obj\Debug\netstandard2.0\MongoDbDemo.Interfaces.dll
-C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Interfaces\obj\Debug\netstandard2.0\MongoDbDemo.Interfaces.pdb

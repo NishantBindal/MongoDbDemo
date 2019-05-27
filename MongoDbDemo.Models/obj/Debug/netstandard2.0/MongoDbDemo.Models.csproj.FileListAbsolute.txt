@@ -1,9 +1,0 @@
-C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Models\bin\Debug\netstandard2.0\MongoDbDemo.Models.deps.json
-C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Models\bin\Debug\netstandard2.0\MongoDbDemo.Models.dll
-C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Models\bin\Debug\netstandard2.0\MongoDbDemo.Models.pdb
-C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Models\obj\Debug\netstandard2.0\MongoDbDemo.Models.csproj.CoreCompileInputs.cache
-C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Models\obj\Debug\netstandard2.0\MongoDbDemo.Models.AssemblyInfoInputs.cache
-C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Models\obj\Debug\netstandard2.0\MongoDbDemo.Models.AssemblyInfo.cs
-C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Models\obj\Debug\netstandard2.0\MongoDbDemo.Models.dll
-C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Models\obj\Debug\netstandard2.0\MongoDbDemo.Models.pdb
-C:\Users\nishantbindal\source\repos\MongoDbDemo\MongoDbDemo.Models\obj\Debug\netstandard2.0\MongoDbDemo.Models.csprojAssemblyReference.cache
