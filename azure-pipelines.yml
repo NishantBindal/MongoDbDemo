@@ -23,7 +23,7 @@ steps:
     command: 'restore'
     restoreSolution: '**/packages.config'
     feedsToUse: 'select'
-    restoreDirectory: '/packages'
+    restoreDirectory: '../packages'
     versioningScheme: 'off'
 
 - task: NuGetCommand@2
