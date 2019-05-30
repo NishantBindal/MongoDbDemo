@@ -11,6 +11,6 @@ namespace MongoDbDemo.Providers
     {
         public string MongoDatabaseName => ConfigurationManager.AppSettings["MongoDatabaseName"];
 
-        public string ConnectionString => ConfigurationManager.ConnectionStrings["MongoDbDemo"].ConnectionString;
+        public string ConnectionString => ConfigurationManager.ConnectionStrings["CUSTOMCONNSTR_MongoDbDemo"].ConnectionString;
     }
 }
